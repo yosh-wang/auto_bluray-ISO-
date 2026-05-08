@@ -63,4 +63,4 @@ jobs:
             3. 重启 mpv
 
             ### 📋 完整更新日志
-            [${{ steps.commit_msgs.outputs.LAST_TAG }}...${{ github.event.inputs.version }}](${{ github.server_url }}/${{ github.repository }}/compare/${{ steps.commit_msgs.outputs.LAST_TAG }}...${{ github.event.inputs.version }})
+            1.  [${{ steps.commit_msgs.outputs.LAST_TAG }}...${{ github.event.inputs.version }}](${{ github.server_url }}/${{ github.repository }}/compare/${{ steps.commit_msgs.outputs.LAST_TAG }}...${{ github.event.inputs.version }})
