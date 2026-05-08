@@ -1,73 +1,34 @@
-# 🔒 Security Policy
+# 安全政策
 
-## Reporting a Vulnerability
+## 支持的版本
 
-If you discover a security vulnerability in this project, please **do not** report it in a public issue.  
-Instead, contact the maintainer privately:
+| 版本 | 支持状态 |
+|------|----------|
+| latest | ✅ 支持中 |
 
-- 📧 Email: **]**
-- 💬 GitHub: [@yosh-wang](https://github.com/yosh-wang)
+## 报告漏洞
 
-We will acknowledge your report within **7 business days**, assess the issue, and strive to release a fix or provide a response within **30 days**.
+如果你发现任何安全漏洞，请**不要**在公开的 Issues 中报告。
 
----
+请通过以下方式私下联系：
 
-## 📢 Disclosure
+- 在 GitHub 上创建 [Issue](https://github.com/yosh-wang/auto_bluray-ISO-/issues) 并标注 `security`（会私下处理）
+- 或直接联系仓库维护者
 
-Once the issue is resolved, we will publish a new release and credit the reporter in the changelog (unless you prefer to remain anonymous).
+## 安全说明
 
----
+本脚本仅做以下操作：
 
-## 📦 Scope
+1. 读取 mpv 当前播放的文件路径
+2. 检测是否为 `.iso` 文件
+3. 替换播放协议为 `bd://`
 
-This project is a Lua script that displays statistics for the mpv player. Potential security risks may include:
+脚本**不会**：
+- 收集任何用户数据
+- 访问网络
+- 修改系统文件
+- 执行任意代码
 
-- Arbitrary code injection if the script loads data from untrusted sources
+## 依赖风险
 
-However, this script does **not** process user input, so the risk is extremely low.
-
-> ⚠️ If you discover a security issue related to mpv itself, please report it directly to the **mpv team** via their official channels.
-
----
-
-<p align="center">
-  <sub>🔒 Thank you for helping keep this project safe</sub>
-</p>
-
----
-
-# 🔒 安全政策
-
-## 报告安全漏洞
-
-如果你在本项目中发现了安全漏洞，请 **不要** 在公开 issue 中报告。  
-请通过以下方式私下联系维护者：
-
-- 📧 邮箱：**[]**
-- 💬 GitHub：[@yosh-wang](https://github.com/yosh-wang)
-
-我们会在 **7 个工作日内** 确认并评估问题，并尽力在 **30 天内** 修复或给出回应。
-
----
-
-## 📢 漏洞披露
-
-修复完成后，我们会发布新版本，并在更新日志中注明感谢报告者（除非报告者要求匿名）。
-
----
-
-## 📦 范围
-
-本项目是一个 Lua 脚本，主要功能是显示 mpv 播放器的统计信息。潜在安全风险可能包括：
-
-- 脚本执行过程中的任意代码注入（如果脚本从不可信来源加载数据）
-
-但本项目不处理用户输入，风险极低。
-
-> ⚠️ 如果你发现与 mpv 核心相关的安全问题，请直接联系 **mpv 官方团队** 的官方渠道。
-
----
-
-<p align="center">
-  <sub>🔒 感谢你帮助维护本项目的安全</sub>
-</p>
+本脚本无任何外部依赖，仅使用 mpv 内置 Lua API。
