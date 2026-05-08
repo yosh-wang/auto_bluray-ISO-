@@ -44,7 +44,7 @@ jobs:
           echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Create Release
-        uses: softprops/action-gh-release@v7
+        uses: softprops/action-gh-release@v2
         with:
           files: auto_bluray.lua
           tag_name: ${{ github.event.inputs.version }}
