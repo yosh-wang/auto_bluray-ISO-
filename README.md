@@ -94,3 +94,11 @@
 
 ## 🔧 脚本代码
 - **仓库下载**
+- 
+## 🔧 图片预览
+
+<img width="1200" height="675" alt="5 (3)" src="https://github.com/user-attachments/assets/dd42542d-41bf-4f6a-bfb9-082d82515ae6" />
+<img width="1200" height="675" alt="4(4)" src="https://github.com/user-attachments/assets/19c6c802-5c46-4584-834b-f043148d860b" />
+<img width="1200" height="675" alt="3 (2)" src="https://github.com/user-attachments/assets/1960af01-5898-4fc8-8aca-42c025e42f7b" />
+<img width="1200" height="675" alt="2 (5)" src="https://github.com/user-attachments/assets/a6374c7e-5c78-4600-a207-44db5b5e9681" />
+<img width="1200" height="675" alt="2 (1)" src="https://github.com/user-attachments/assets/7d3edaf1-6185-4ff2-865a-007ec78b3586" />
