@@ -1,6 +1,6 @@
 ---
 
-# 🎬 mpv 蓝光 ISO 自动播放脚本
+# 🎬 mpv 蓝光 ISO 自动播放脚本  
 
 <!-- 第一行：社交互动核心指标 -->
 [![GitHub stars](https://img.shields.io/github/stars/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/stargazers)
