@@ -1,19 +1,50 @@
 
-# 📄 MIT 许可证
+# 📄 许可证
 
 版权所有 © 2026 [yosh-wang](https://github.com/yosh-wang)
 
 ---
 
-## 许可声明
+## ⚠️ 重要声明
 
-特此授予任何获得本软件及其相关文档文件（以下简称"本软件"）副本的人**免费许可**，允许其**不受限制地使用本软件**，包括但不限于：
+**本项目仅供个人学习、研究和非商业用途使用。**
 
-- ✅ 使用、复制、修改、合并、出版、分发、再许可
-- ✅ 销售本软件的副本
-- ✅ 允许使用本软件的人享受上述权利
+**严禁将本项目或其任何部分用于商业目的。**
 
-但须遵守以下条件。
+---
+
+## 许可条款
+
+在遵守以下条件的前提下，允许任何获得本软件及其相关文档文件（以下简称"本软件"）副本的人**免费使用**本软件：
+
+### ✅ 允许的行为
+
+- ✅ 个人学习、研究、娱乐使用
+- ✅ 复制、修改源代码
+- ✅ 在非商业项目中集成使用
+- ✅ 向他人分享、分发（需保留版权声明）
+- ✅ 提交改进代码（Pull Request）
+
+### ❌ 禁止的行为
+
+- ❌ **将本软件用于任何商业目的**
+- ❌ 销售本软件或包含本软件的衍生作品
+- ❌ 将本软件用于任何盈利性活动
+- ❌ 利用本软件提供收费服务
+- ❌ 将本软件集成到商业产品或项目中
+
+---
+
+## 商业使用授权
+
+如果您希望**将本软件用于商业目的**（包括但不限于商业产品、收费服务、企业内部使用等），**必须**获得版权所有者的**书面授权**。
+
+商业授权请联系：
+
+| 联系方式 | 说明 |
+|:---|:---|
+| 📧 邮箱 | [项目维护者邮箱] |
+| 💬 GitHub | https://github.com/yosh-wang/auto_bluray-ISO-/issues |
 
 ---
 
@@ -35,62 +66,40 @@
 
 ---
 
-## 简明摘要
+## 许可证摘要
 
 | 项目 | 说明 |
 |:---|:---|
-| 📌 **许可类型** | 宽松开源许可证 |
-| ✅ **允许** | 商业使用、修改、分发、私人使用 |
-| ❌ **禁止** | 无（仅需保留版权声明） |
-| 📋 **要求** | 保留版权和许可声明 |
+| 📌 **许可类型** | 非商业使用许可 |
+| ✅ **允许** | 个人使用、学习研究、修改、非商业分发 |
+| ❌ **禁止** | **商业使用**、销售、盈利性活动 |
+| 📋 **要求** | 保留版权声明和本许可声明 |
 | 🧩 **适用范围** | 本项目的所有代码和文档 |
 
 ---
 
-## 了解更多
+## 违反条款的后果
 
-MIT 许可证是最受欢迎的宽松开源许可证之一，它：
+如发现违反本许可证条款的行为，版权持有人有权：
 
-- 允许将代码用于**商业项目**
-- 允许将代码**闭源**使用
-- 允许修改后**不公开源代码**
-- 唯一的义务是**保留原始版权声明**
-
-### 📚 参考资源
-
-- [MIT 许可证全文（英文原版）](https://opensource.org/licenses/MIT)
-- [选择开源许可证指南](https://choosealicense.com/)
-- [开源许可证对比](https://opensource.org/licenses)
+1. 发出书面警告，要求立即停止侵权行为
+2. 撤销侵权方的使用许可
+3. 采取法律手段维护合法权益
+4. 要求赔偿因侵权行为造成的损失
 
 ---
 
-## 项目信息
-
-| 项目 | 内容 |
-|:---|:---|
-| 📦 项目名称 | auto_bluray-ISO- |
-| 🏷️ 许可证 | MIT License |
-| 👤 版权持有人 | yosh-wang |
-| 📅 年份 | 2026 |
-| 🔗 项目地址 | https://github.com/yosh-wang/auto_bluray-ISO- |
-
----
-
-## 贡献者许可
-
-向本项目提交贡献即表示您同意：
-
-1. 您的贡献将按照**本许可证（MIT）** 进行授权
-2. 您有权授予此许可（即您拥有贡献内容的版权，或已获得授权）
-3. 您同意在贡献中放弃任何"精神权利"或类似权利
-
----
-
-## 第三方依赖
+## 第三方依赖说明
 
 本项目基于 **mpv 播放器** 运行，mpv 使用 **GNU General Public License v2** 或更高版本授权。
 
 使用本脚本时，请确保您已遵守 mpv 的许可要求。
+
+---
+
+## 许可证的修订
+
+本许可证版本为 **v1.0**，版权持有人保留随时修订本许可证的权利。修订后的版本将在本仓库中公布，并自公布之日起生效。
 
 ---
 
@@ -101,31 +110,3 @@ MIT 许可证是最受欢迎的宽松开源许可证之一，它：
 <p align="center">
   <sub>Made with ❤️ by <a href="https://github.com/yosh-wang">yosh-wang</a></sub>
 </p>
-
----
-
-## 📝 完整许可证文本（英文原版）
-
-```
-MIT License
-
-Copyright (c) 2026 yosh-wang
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
