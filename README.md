@@ -1,6 +1,20 @@
----
 
-# 🎬 mpv 蓝光 ISO 自动播放脚本 原创   
+<p align="center">
+  <img src="https://img.shields.io/badge/🎬-蓝光ISO自动播放脚本-00ADEF?style=for-the-badge&logo=mpv&logoColor=white" alt="蓝光ISO自动播放脚本">
+</p>
+
+<p align="center">
+  <strong>✨ 拖拽即播 · 双击即放 · 零配置 · 轻如羽 ✨</strong>
+</p>
+
+> [!IMPORTANT]
+> 🚫 **非商业使用声明**
+>
+> 本项目仅供 **个人学习、研究和非商业用途** 使用，**严禁任何形式的商业使用**。
+>
+> 📄 详见 [LICENSE.md](LICENSE.md)
+
+---
 
 <!-- 第一行：社交互动核心指标 -->
 [![GitHub stars](https://img.shields.io/github/stars/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/stargazers)
@@ -52,57 +66,109 @@
 
 ## 📖 项目简介
 
-**将 ISO 文件直接拖入 mpv 窗口、或者直接双击，即可自动播放蓝光原盘，无需命令行。**
+> 将 ISO 文件直接**拖入 mpv 窗口**、或者**直接双击**，即可自动播放蓝光原盘，**无需命令行**。
 
-| 项目 | 信息 |
-|------|------|
-| 脚本文件 | `auto_bluray.lua` |
-| 功能 | 自动检测 ISO 文件，切换蓝光模式播放 |
-| 安装方式 | 放入 `scripts` 文件夹 |
-| 使用方式 | 拖拽或双击 ISO 文件 |
+<table>
+  <tr>
+    <th>项目</th>
+    <th>信息</th>
+  </tr>
+  <tr>
+    <td>📄 脚本文件</td>
+    <td><code>auto_bluray.lua</code></td>
+  </tr>
+  <tr>
+    <td>🎯 核心功能</td>
+    <td>自动检测 ISO 文件，切换蓝光模式播放</td>
+  </tr>
+  <tr>
+    <td>📂 安装方式</td>
+    <td>放入 <code>scripts</code> 文件夹</td>
+  </tr>
+  <tr>
+    <td>🖱️ 使用方式</td>
+    <td>拖拽或双击 <code>.iso</code> 文件</td>
+  </tr>
+</table>
 
-## ✨ 特性
+---
+
+## ✨ 特性亮点
 
 | 特性 | 说明 |
-|------|------|
-| 🎯 拖拽即播 | 直接把 `.iso` 文件拖进 mpv 窗口 |
-| 💾 双击即播 | 将 mpv 设为 ISO 默认程序后，双击即可 |
-| 🔍 自动识别 | 只对 ISO 文件生效，不影响其他视频 |
-| ⚡ 轻量无感 | 单个 Lua 脚本，零配置 |
-| 🧠 智能拦截 | 在 mpv 加载文件前自动切换为蓝光协议 |
+|:---:|:---|
+| 🎯 **拖拽即播** | 直接把 <code>.iso</code> 文件拖进 mpv 窗口 |
+| 💾 **双击即播** | 将 mpv 设为 ISO 默认程序后，双击即可 |
+| 🔍 **自动识别** | 只对 ISO 文件生效，不影响其他视频 |
+| ⚡ **轻量无感** | 单个 Lua 脚本，零配置 |
+| 🧠 **智能拦截** | 在 mpv 加载文件前自动切换为蓝光协议 |
 
-## 📥 安装
+---
+
+## 📥 安装指南
 
 ### 1️⃣ 确定脚本目录
 
 | mpv 版本 | 路径 |
-|----------|------|
-| 便携版 | `mpv.exe` 所在目录下的 `portable_config/scripts/` |
-| 安装版 | `%APPDATA%\mpv\scripts\` |
-| macOS/Linux | `~/.config/mpv/scripts/` |
+|:---|:---|
+| 🪟 **Windows 便携版** | <code>mpv.exe</code> 所在目录下的 <code>portable_config/scripts/</code> |
+| 🪟 **Windows 安装版** | <code>%APPDATA%\mpv\scripts\</code> |
+| 🍎 **macOS** | <code>~/.config/mpv/scripts/</code> |
+| 🐧 **Linux** | <code>~/.config/mpv/scripts/</code> |
 
 ### 2️⃣ 安装本脚本
 
-将 `auto_bluray.lua` 放入上述 `scripts` 文件夹。
+将 <code>auto_bluray.lua</code> 放入上述 <code>scripts</code> 文件夹。
 
 ### 3️⃣ 重启 mpv
 
-完全退出 mpv 后重新打开。
-
-## 🎮 使用
-
-- **拖拽播放**：将 `.iso` 文件拖到 mpv 窗口
-- **双击播放**：右键 `.iso` 文件 → 打开方式 → 选择 mpv → 勾选「始终使用此应用」
-
-## 🔧 脚本代码
-- **仓库下载**
-
-## 🔧 图片预览
-
-<img width="1200" height="675" alt="5 (3)" src="https://github.com/user-attachments/assets/dd42542d-41bf-4f6a-bfb9-082d82515ae6" />
-<img width="1200" height="675" alt="4(4)" src="https://github.com/user-attachments/assets/19c6c802-5c46-4584-834b-f043148d860b" />
-<img width="1200" height="675" alt="3 (2)" src="https://github.com/user-attachments/assets/1960af01-5898-4fc8-8aca-42c025e42f7b" />
-<img width="1200" height="675" alt="2 (5)" src="https://github.com/user-attachments/assets/a6374c7e-5c78-4600-a207-44db5b5e9681" />
-<img width="1200" height="675" alt="2 (1)" src="https://github.com/user-attachments/assets/7d3edaf1-6185-4ff2-865a-007ec78b3586" />
+**完全退出** mpv 后重新打开。
 
 ---
+
+## 🎮 使用方法
+
+| 方式 | 操作 |
+|:---:|:---|
+| 🖱️ **拖拽播放** | 将 <code>.iso</code> 文件拖到 mpv 窗口 |
+| 🖱️ **双击播放** | 右键 <code>.iso</code> 文件 → 打开方式 → 选择 mpv → 勾选「始终使用此应用」 |
+
+---
+
+## 🔧 脚本代码
+
+👉 点击下载：[auto_bluray.lua](https://github.com/yosh-wang/auto_bluray-ISO-/blob/main/auto_bluray.lua)
+
+---
+
+## 🖼️ 预览截图
+
+<p align="center">
+  <img width="48%" alt="预览1" src="https://github.com/user-attachments/assets/dd42542d-41bf-4f6a-bfb9-082d82515ae6" />
+  <img width="48%" alt="预览2" src="https://github.com/user-attachments/assets/19c6c802-5c46-4584-834b-f043148d860b" />
+</p>
+<p align="center">
+  <img width="48%" alt="预览3" src="https://github.com/user-attachments/assets/1960af01-5898-4fc8-8aca-42c025e42f7b" />
+  <img width="48%" alt="预览4" src="https://github.com/user-attachments/assets/a6374c7e-5c78-4600-a207-44db5b5e9681" />
+</p>
+<p align="center">
+  <img width="48%" alt="预览5" src="https://github.com/user-attachments/assets/7d3edaf1-6185-4ff2-865a-007ec78b3586" />
+</p>
+
+---
+
+## 📄 许可证
+
+本项目基于 **非商业使用许可** 开源，**严禁商用**。
+
+📖 详见 [LICENSE.md](LICENSE.md)
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ by <a href="https://github.com/yosh-wang">yosh-wang</a></sub>
+</p>
+
+<p align="center">
+  <sub>⭐ 如果这个项目对您有帮助，请给一个 Star 支持一下！</sub>
+</p>
