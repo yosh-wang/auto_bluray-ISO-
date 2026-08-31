@@ -1,7 +1,8 @@
 # 🎬 MPV Player · 硬核技术交流群
 
-[![QQ Group](https://img.shields.io/badge/QQ群-1097053691-12B7F5?logo=tencent-qq&logoColor=white)](https://qm.qq.com/q/KQZsl4wFmG)
-[![Members](https://img.shields.io/badge/群成员-1500+-4CAF50)](https://qm.qq.com/q/KQZsl4wFmG)
+QQ Group](https://img.shields.io/badge/QQ①群-1097053691-12B7F5?logo=tencent-qq&logoColor=white)](https://qm.qq.com/q/KQZsl4wFmG) 
+[![Members](https://img.shields.io/badge/群成员-1900+-4CAF50)](https://qm.qq.com/q/KQZsl4wFmG)          [![QQ Group](https://img.shields.io/badge/QQ②群-1104144778-12B7F5?logo=tencent-qq&logoColor=white)](https://qm.qq.com/q/KDxk01ukwe)
+[![Members](https://img.shields.io/badge/群成员-10+-4CAF50)](https://qm.qq.com/q/KDxk01ukwe)
 
 ---
 > **🎯 mpv · 为画质而生，为技术而狂 · mpv 🎯**
@@ -9,69 +10,69 @@
 
 ## 📌 群信息
 
-<table>
+<表格>
   <tr>
     <td width="50%" valign="top" style="padding: 0;">
-      <table>
+      <表格>
         <tr><td><strong>QQ 群号</strong></td><td><code>1097053691</code></td></tr>
         <tr><td><strong>加入链接</strong></td><td><a href="https://qm.qq.com/q/KQZsl4wFmG">点击加入</a></td></tr>
-        <tr><td><strong>群成员</strong></td><td>1500+ </td></tr>
+        <tr><td><strong>群成员</strong></td><td>1950+ </td></tr>
         <tr><td><strong>群性质</strong></td><td>热心发电 · 免费交流</td></tr>
         <tr><td><strong>分享内容</strong></td><td>配置 / 脚本 / 着色器 / 懒人包</td></tr>
         <tr><td><strong>适合人群</strong></td><td>新手入门·玩家折腾·开发交流</td></tr>
-        <tr><td><strong>群目标</strong></td><td>互助 · 分享 · 共同折腾</td></tr>
-        <tr><td><strong>进群暗号</strong></td><td>mpv 玩家</td></tr>
-      </table>
-    </td>
+        群目标互助 · 分享 · 共同折腾<tr><td><strong>群目标</strong></td><td>互助 · 分享 · 共同折腾</td></tr>
+        <tr><td><strong>进群暗号</strong></td><td>mpv 玩家</td></tr><tr><td><strong>进群暗号</strong></td><td>mpv 玩家</td></tr>
+      </table></table>
+    </td></td>
     <td width="50%" align="center" valign="top" style="padding: 0;">
-      <table>
-        <tr>
-          <td align="center">
+      <table><table>
+        <tr><tr>
+          <td align="center"><td align="center">
             <img src="QQ Group1.jpg" alt="QQ群二维码" width="200">
-          </td>
-          <td align="center">
+          </td></td>
+          <td align="center"><td align="center">
             <img src="QQ Group2.png" alt="群内讨论截图" width="200">
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+          </td></td>
+        </tr></tr>
+      </table></table>
+    </td></td>
+  </tr></tr>
+</table>table>
 
 ---
 
-<p align="center">
+p align="center">
   <img src="https://img.shields.io/badge/🎬-蓝光ISO自动播放脚本-00ADEF?style=for-the-badge&logo=mpv&logoColor=white" alt="蓝光ISO自动播放脚本">
-</p>
+p>
 
-<p align="center">
-  <strong>✨ 拖拽即播 · 双击即放 · 零配置 · 轻如羽 ✨</strong>
-</p>
+p align="center">
+  ✨ 拖拽即播 · 双击即放 · 零配置 · 轻如羽 ✨<strong>✨ 拖拽即播 · 双击即放 · 零配置 · 轻如羽 ✨</strong>
+p>
 
-> [!IMPORTANT]
-> 🚫 **非商业使用声明**
+> [!重要] [!IMPORTANT]
+> 🚫 **非商业使用声明** 🚫 **非商业使用声明**
 >
-> 本项目仅供 **个人学习、研究和非商业用途** 使用，**严禁任何形式的商业使用**。
+> 本项目仅供 **个人学习、研究和非商业用途** 使用，**严禁任何形式的商业使用**。 本项目仅供 **个人学习、研究和非商业用途** 使用，**严禁任何形式的商业使用**。
 >
-> 📄 详见 [LICENSE.md](LICENSE.md)
+> 📄 详见 [LICENSE.md](LICENSE.md) 📄 详见 [LICENSE.md](LICENSE.md)
 
 ---
 
-<!-- 第一行：社交互动核心指标 -->
-[![GitHub stars](https://img.shields.io/github/stars/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/forks)
-[![GitHub watchers](https://img.shields.io/github/watchers/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/watchers)
 
-<!-- 第二行：项目数据徽章 -->
+[![GitHub 星标](https://img.shields.io/github/stars/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/stargazers)![GitHub stars](https://img.shields.io/github/stars/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/stargazers)
+[![GitHub 分支](https://img.shields.io/github/forks/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/forks)![GitHub forks](https://img.shields.io/github/forks/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/forks)
+[![GitHub 关注者](https://img.shields.io/github/watchers/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/watchers)![GitHub watchers](https://img.shields.io/github/watchers/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/watchers)
+
+
 [![GitHub Repo stars](https://img.shields.io/github/stars/yosh-wang/auto_bluray-ISO-?style=flat-square)](https://github.com/yosh-wang/auto_bluray-ISO-/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yosh-wang/auto_bluray-ISO-?style=flat-square)](https://github.com/yosh-wang/auto_bluray-ISO-/forks)
 [![GitHub issues](https://img.shields.io/github/issues/yosh-wang/auto_bluray-ISO-?style=flat-square)](https://github.com/yosh-wang/auto_bluray-ISO-/issues)
 [![GitHub watchers](https://img.shields.io/github/watchers/yosh-wang/auto_bluray-ISO-?style=flat-square)](https://github.com/yosh-wang/auto_bluray-ISO-/watchers)
 [![GitHub contributors](https://img.shields.io/github/contributors/yosh-wang/auto_bluray-ISO-?style=flat-square)](https://github.com/yosh-wang/auto_bluray-ISO-/graphs/contributors)
-[![GitHub license](https://img.shields.io/github/license/yosh-wang/auto_bluray-ISO-?style=flat-square)](https://github.com/yosh-wang/auto_bluray-ISO-/blob/main/LICENSE)
+[![GitHub 许可证](https://img.shields.io/github/license/yosh-wang/auto_bluray-ISO-?style=flat-square)](https://github.com/yosh-wang/auto_bluray-ISO-/blob/main/LICENSE)![GitHub license](https://img.shields.io/github/license/yosh-wang/auto_bluray-ISO-?style=flat-square)](https://github.com/yosh-wang/auto_bluray-ISO-/blob/main/LICENSE)
 
-<!-- 第三行：版本发布与下载统计 -->
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/releases/latest)
+
+[![GitHub 发布 (按日期排序的最新版本)](https://img.shields.io/github/v/release/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/releases/latest)![GitHub release (latest by date)](https://img.shields.io/github/v/release/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/releases/latest)
 [![GitHub tag](https://img.shields.io/github/v/tag/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/tags)
 [![GitHub release date](https://img.shields.io/github/release-date/yosh-wang/auto_bluray-ISO-)](https://github.com/yosh-wang/auto_bluray-ISO-/releases)
 [![GitHub downloads (latest)](https://img.shields.io/github/downloads/yosh-wang/auto_bluray-ISO-/latest/total?cacheSeconds=300)](https://github.com/yosh-wang/auto_bluray-ISO-/releases/latest)
